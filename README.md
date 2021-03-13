@@ -1,0 +1,2 @@
+# notesdjango
+notes Django project
